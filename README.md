@@ -9,7 +9,7 @@ Community-Driven open source marketplace
 This platform can help:
 1. users: it will provide an easy way for users to support independent developers via subscription or donations and get rewards in return
 2. developers: help to earn from their open source projects via multiple monetization plans such as open-core, subscription, donations and so on.
-More details can be found on [GitCom landing page](https://start.gitcom.org)
+More details on [GitCom landing page](https://start.gitcom.org)
 
 ### We love open source!
 This project is 100% open source, here's the full list of services & repositories:  
