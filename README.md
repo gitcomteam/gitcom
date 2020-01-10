@@ -15,6 +15,6 @@ More details on [GitCom landing page](https://start.gitcom.org)
 This project is 100% open source, here's the full list of services & repositories:  
 [Frontend - React app](https://github.com/gitcomteam/gitcom-front)  
 [Backend - .NET Core API](https://github.com/gitcomteam/gitcom-api)  
-[Landing page - simple html website](https://github.com/gitcomteam/gitcom-api)  
+[Landing page - simple html website](https://github.com/gitcomteam/gitcom-landing)  
 
 There also are contribution rewards for each repo - by contributing you can get bonus points for use inside platform, more details can be found on each repository page.
