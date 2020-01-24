@@ -4,6 +4,9 @@ Community-Driven open source marketplace
 <a href="https://discord.gg/gRxPXPn">
   <img src="https://img.shields.io/discord/658128774679756820?logo=discord" alt="chat on Discord">
 </a>
+<a href="https://opencollective.com/gitcom">
+  <img src="https://img.shields.io/opencollective/backers/gitcom?style=plastic" alt="Open Collective backers">
+</a>
 
 ### Brief description
 This platform can help:
