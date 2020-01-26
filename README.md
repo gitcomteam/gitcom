@@ -7,6 +7,9 @@ Community-Driven open source marketplace
 <a href="https://opencollective.com/gitcom">
   <img src="https://img.shields.io/opencollective/backers/gitcom?style=plastic" alt="Open Collective backers">
 </a>
+<a href="https://gitcom.org/">
+  <img src="https://img.shields.io/badge/GitCom-go%20to%20project-f" alt="GitCom link">
+</a>
 
 ### Brief description
 This platform can help:
